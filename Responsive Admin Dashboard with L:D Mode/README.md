@@ -1,8 +1,13 @@
-Responsive Admin Dashboard with Light & Dark Mode:
+responsive admin dashboard with light & dark mode:
 
-I use HTML, CSS, and JavaScript to create a responsive admin dashboard with light/dark mode theme functionality
+i use html, css, and javascript to create a responsive admin dashboard with light/dark mode theme functionality.
 
 
-Screenshot:
+screenshot:
 
-<img width="1920" alt="darkmode" src="https://github.com/user-attachments/assets/f9158191-b269-4218-a6ae-05d17f48b270">
+
+(light mode)
+<img width="1920" alt="lightmode" src="https://github.com/user-attachments/assets/e26dd994-bba1-42d6-b067-5cb1c5af51d5">
+
+(dark mode)
+<img width="1920" alt="darkmode" src="https://github.com/user-attachments/assets/49c14904-eb00-4da3-b767-e34bd7c36b55">
