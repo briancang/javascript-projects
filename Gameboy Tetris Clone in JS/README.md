@@ -1,6 +1,6 @@
 gameboy tetris clone:
 
-recreated tetris using html to design the layout, retro styling with CSS, and implementing game logic using javascript.
+recreated tetris using html to design the layout, retro styling with css, and implementing game logic using javascript.
 
 screenshot:
 
