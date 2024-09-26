@@ -1,1 +1,1 @@
-a collection of all my javascript coding projects
+a collection of all my javascript coding projects 
